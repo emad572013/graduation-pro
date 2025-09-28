@@ -652,7 +652,7 @@ footer .footer-bottom-links a:hover {
 .about-us {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background: #fff;
+    background: var(--grey-color);
     position: relative;
     margin: 70px 0px;
   }
