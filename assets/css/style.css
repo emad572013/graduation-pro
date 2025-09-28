@@ -914,5 +914,8 @@ footer .footer-bottom-links a:hover {
   position: relative;
   margin: 70px 0px;
 }
+.our-team .main-heading p {
+  color: #fff;
+}
 
 /* End Footer */
